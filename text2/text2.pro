@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2018-07-05T22:18:19
+# Project created by QtCreator 2018-07-09T09:35:43
 #
 #-------------------------------------------------
 
@@ -25,13 +25,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        mainwindow.cpp \
+    zhucejiemian.cpp
 
 HEADERS += \
-        mainwindow.h
+        mainwindow.h \
+    zhucejiemian.h
 
 FORMS += \
-        mainwindow.ui
+        mainwindow.ui \
+    zhucejiemian.ui
 
 RESOURCES += \
-    myicon.qrc
+    images.qrc

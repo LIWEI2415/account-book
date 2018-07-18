@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/bg_login1.jpg</file>
+        <file>image/bg_login2.jpg</file>
+        <file>image/0.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/1.png</file>
+        <file>image/fw.png</file>
+        <file>image/fq.png</file>
+        <file>image/fwe.png</file>
+        <file>image/4.png</file>
+        <file>image/myapp.ico</file>
+        <file>image/登陆.png</file>
+        <file>image/登陆界面背景.png</file>
+        <file>image/登陆密码.png</file>
+        <file>image/点击注册.png</file>
+        <file>image/立即注册.png</file>
+        <file>image/某个框.PNG</file>
+        <file>image/退出.png</file>
+        <file>image/万能背景.png</file>
+        <file>image/用户名.png</file>
+        <file>image/账单查看背景.jpg</file>
+        <file>image/账单查看背景.PNG</file>
+        <file>image/主界面记一笔.png</file>
+        <file>image/注册界面 密码确认.png</file>
+        <file>image/注册界面 密码输入.png</file>
+        <file>image/注册界面背景.PNG</file>
+        <file>image/注册界面用户名输入.png</file>
+        <file>image/背景1.PNG</file>
+        <file>image/背景2.PNG</file>
+        <file>image/本年收入.png</file>
+        <file>image/本年支出.png</file>
+        <file>image/查询.png</file>
+        <file>image/查询当日.png</file>
+        <file>image/返回主界面.png</file>
+        <file>image/开始歌曲1.png</file>
+        <file>image/开始歌曲2.png</file>
+        <file>image/开始歌曲3.png</file>
+        <file>image/停止歌曲.png</file>
+        <file>image/本年收入图表.png</file>
+        <file>image/本年支出图表.png</file>
+        <file>image/收入分类排行.png</file>
+        <file>image/支出分类排行.png</file>
+        <file>image/保存.png</file>
+        <file>image/折线图.png</file>
+        <file>image/柱状图.png</file>
+        <file>image/按日查询.png</file>
+        <file>image/报表分析.png</file>
+        <file>image/当天支出.png</file>
+        <file>image/返回.png</file>
+        <file>image/返回登陆.png</file>
+        <file>image/每日预算.png</file>
+        <file>image/每月预算.png</file>
+        <file>image/删除信息.png</file>
+        <file>image/数据报表.png</file>
+        <file>image/修改信息.png</file>
+        <file>image/最小化.png</file>
+        <file>image/返回登陆（灰底）.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>photos/logininterface.PNG</file>
+        <file>photos/username.PNG</file>
+        <file>photos/登陆.png</file>
+        <file>photos/登陆密码.png</file>
+        <file>photos/开始界面.PNG</file>
+        <file>photos/消费建议给出界面.PNG</file>
+        <file>photos/新建账单页面.jpg</file>
+        <file>photos/选择年之后的月界面.PNG</file>
+        <file>photos/选择数据分析 年 月 日 都一样.PNG</file>
+        <file>photos/选择月之后的下一个界面.PNG</file>
+        <file>photos/注册.png</file>
+        <file>photos/注册界面 密码确认.png</file>
+        <file>photos/注册界面 密码输入.png</file>
+        <file>photos/注册界面.PNG</file>
+        <file>photos/注册界面用户名输入.png</file>
+    </qresource>
+</RCC>
